@@ -3,7 +3,7 @@
 //Brianaldo P (16520010) & Suryanto (16520195
 
 #include <stdio.h>
-#include<math.h>
+#include <math.h>
 #include <stdlib.h>
 #include <time.h>
 #include <stdbool.h>
