@@ -1,6 +1,6 @@
 //TUBES PROGRAMMING
 //ROBOT PEMBASMI KECOAK MUTAN
-//Brianaldo P (16520010) & Suryanto (16520195
+//Brianaldo P (16520010) & Suryanto (16520195)
 
 #include <stdio.h>
 #include <math.h>
